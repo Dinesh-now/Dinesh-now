@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Dinesh K<br><br>### 🚀 Java Full Stack Developer | MCA Graduate | Chennai, India<br><br>I'm a passionate fresher who loves building web applications from the database all the way to the user interface. I enjoy turning ideas into clean, working software and I'm always learning something new. 💡<br><br>---<br><br>## 🔭 What I'm Up To<br>- 🌱 Currently learning and sharpening my skills in **Java Full Stack Development**<br>- 💼 Looking for entry-level **Java Full Stack Developer** opportunities<br>- 🛠️ Building projects with **Spring Boot** and **React.js**<br><br>## 🧰 Tech Stack<br><br>**Backend**<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)<br>![Hibernate](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)<br><br>**Frontend**<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br><br>**Database**<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br><br>**Tools**<br>![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br><br>## 🎓 Education<br>- 🎓 **MCA** – Gnanamani College of Technology (2023 – 2025)<br>- 📘 **B.Sc. Computer Science** – Government Arts and Science College (2020 – 2023)<br><br>## 📜 Training<br>- ☕ Java Full Stack Developer course – Q Spiders, Chennai<br><br>## 💡 What I Bring<br>- ✅ REST API development with Spring Boot<br>- ✅ Database integration using JDBC and Spring Data JPA<br>- ✅ Responsive UI design with React and Tailwind CSS<br>- ✅ Version control and collaboration with Git & GitHub<br><br>## 📫 Let's Connect<br>- 💼 LinkedIn: [your-linkedin-link]<br>- 📧 Email: your-email@example.com<br><br>---<br><br>⭐ *"Code is like humor. When you have to explain it, it's bad."* 😄
 
-<!--
-**Dinesh-now/Dinesh-now** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dinesh K) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshkumar86106@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dinesh-now&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Dinesh-now&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dinesh-now&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Dinesh-now&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
