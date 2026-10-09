@@ -1,21 +1,124 @@
-# 💫 About Me:
-<h4>👋 Hi, I'm Dinesh K</h4><br><sub>🚀 Java Full Stack Developer | MCA Graduate | Chennai, India</sub><br><br><sub>I build web apps from database to UI. Fresher, always learning, and looking for entry-level Java Full Stack opportunities. 💡</sub><br><br><h5>🔭 What I'm Up To</h5><br><sub><br>🌱 Sharpening my skills in Java Full Stack Development<br><br>🛠️ Building projects with Spring Boot and React.js<br><br>💼 Open to entry-level Java Full Stack roles<br></sub><br><br><h5>🧰 Tech Stack</h5><br><br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br>![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)<br>![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br>![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)<br><br><h5>🎓 Education</h5><br><sub><br>🎓 MCA – Gnanamani College of Technology (2023 – 2025)<br><br>📘 B.Sc. Computer Science – Government Arts and Science College (2020 – 2023)<br><br>☕ Java Full Stack Developer course – Q Spiders, Chennai<br></sub><br><br><h5>💡 What I Bring</h5><br><sub><br>✅ REST API development with Spring Boot<br><br>✅ Database integration using JDBC and Spring Data JPA<br><br>✅ Responsive UI with React and Tailwind CSS<br><br>✅ Version control with Git and GitHub<br></sub><br><br><h5>📫 Let's Connect</h5><br><sub><br>💼 <a href="your-linkedin-link">LinkedIn</a> &nbsp;|&nbsp; 📧 your-email@example.com<br></sub>
+<h1 align="center">Hi 👋, I'm Dinesh</h1>
 
+<h3 align="center">Java Full Stack Developer | Spring Boot | React.js</h3>
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dinesh K) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshkumar86106@gmail.com) 
+<p align="center">
+  🚀 Building real-world web applications | 💻 Passionate about coding
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dinesh-now&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Dinesh-now&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dinesh-now&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Full+Stack+Developer;Spring+Boot+%2B+React.js;Building+Real-World+Projects&center=true&width=500&height=45">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Dinesh-now&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+* 🎓 Aspiring Java Full Stack Developer.
+* ☕ Backend development using Java and Spring Boot.
+* ⚛️ Frontend development using React.js.
+* 🗄️ Database management using MySQL.
+* 🏦 Building a Banking Application with account and transaction management.
+* ⚖️ Developing a Child Support Enforcement System using React.js.
+* 📚 Learning Hibernate, Spring Security, and Data Structures & Algorithms.
+* 🎯 Preparing for Java Full Stack Developer opportunities.
+
+---
+
+## 🎓 Education
+
+### 🎓 Master of Computer Applications (MCA)
+
+**Gnanamani College of Technology**
+📅 2023 – 2025
+📊 CGPA: 7.7
+
+### 🎓 Bachelor of Science in Computer Science (B.Sc. CS)
+
+**Government Arts and Science College**
+📅 2020 – 2023
+📊 Percentage: 68%
+
+---
+
+## 📚 Professional Training
+
+### 💻 Java Full Stack Development
+
+**QSpiders Institute** | Chennai, Tamil Nadu
+📅 November 2025 – September 2026
+
+**Technologies & Skills:**
+
+* ☕ Core Java
+* 🌱 Spring Boot
+* 🔗 Hibernate
+* 🗄️ SQL
+* 🌐 HTML5 & CSS3
+* ⚡ JavaScript
+* ⚛️ React.js
+
+
+## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,eclipse,vscode" />
+</p>
+
+| Category    | Technologies                                       |
+| ----------- | -------------------------------------------------- |
+| Programming | Java, JavaScript                                   |
+| Frontend    | React.js, HTML5, CSS3                              |
+| Backend     | Spring Boot, Spring Data JPA, Hibernate, REST APIs |
+| Database    | MySQL                                              |
+| Tools       | Eclipse, VS Code, Git, GitHub, Postman             |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 Banking Application
+
+A full-stack banking application built with Java, Spring Boot, React.js, and MySQL.
+
+**Key Features**
+
+* User and account management.
+* Deposit and withdrawal operations.
+* Transaction history.
+* REST API integration and testing using Postman.
+* Input validation and exception handling.
+* JWT authentication and role-based authorization.
+
+### ⚖️ Child Support Enforcement System
+
+A React.js application for managing child support cases and related information.
+
+**Key Features**
+
+* Case management with CRUD operations.
+* Parent and child information management.
+* Payments and court orders.
+* Dashboard and navigation.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-now&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-now&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn:https://www.linkedin.com/in/dinesh-k-63a292324.
+* 📧 Email:dineshkumar86106@gmail.com.
+
+---
+
+<p align="center">
+  <b>Building. Learning. Improving. 🚀</b>
+</p>
