@@ -149,12 +149,19 @@ A full stack online shopping application built with Java, Spring Boot, React.js,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-now&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-now&layout=compact&langs_count=6&theme=tokyonight" height="165" />
+  <img src="https://img.shields.io/github/followers/Dinesh-now?style=for-the-badge&logo=github&color=24292e" />
+  <img src="https://img.shields.io/github/stars/Dinesh-now?style=for-the-badge&logo=github&color=24292e" />
+  <img src="https://img.shields.io/github/last-commit/Dinesh-now/Banking-Application-Full-Stack?style=for-the-badge&logo=git&color=24292e" />
 </p>
 
 <p align="center">
-  <sub>The language card counts programming languages only. Spring Boot and Hibernate show up as Java, and React.js shows up as JavaScript.</sub>
+  <img src="https://img.shields.io/github/languages/top/Dinesh-now/Banking-Application-Full-Stack?style=for-the-badge&label=Banking%20App" />
+  <img src="https://img.shields.io/github/languages/top/Dinesh-now/cses_portal?style=for-the-badge&label=CSES%20Portal" />
+  <img src="https://img.shields.io/github/languages/top/Dinesh-now/E-CommereceApp?style=for-the-badge&label=E-commerce" />
+</p>
+
+<p align="center">
+  <sub>GitHub counts languages only, so Spring Boot and Hibernate show up as Java, and React.js shows up as JavaScript.</sub>
 </p>
 
 ---
