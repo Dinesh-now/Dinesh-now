@@ -154,15 +154,16 @@ A full stack online shopping application built with Java, Spring Boot, React.js,
   <img src="https://img.shields.io/github/last-commit/Dinesh-now/Banking-Application-Full-Stack?style=for-the-badge&logo=git&color=24292e" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Dinesh-now/Banking-Application-Full-Stack?style=for-the-badge&label=Banking%20App" />
-  <img src="https://img.shields.io/github/languages/top/Dinesh-now/cses_portal?style=for-the-badge&label=CSES%20Portal" />
-  <img src="https://img.shields.io/github/languages/top/Dinesh-now/E-CommereceApp?style=for-the-badge&label=E-commerce" />
-</p>
+<h3 align="center">Languages I Code In</h3>
 
 <p align="center">
-  <sub>GitHub counts languages only, so Spring Boot and Hibernate show up as Java, and React.js shows up as JavaScript.</sub>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 
 ---
 
