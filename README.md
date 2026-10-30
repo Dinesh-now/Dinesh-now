@@ -25,9 +25,21 @@
 * ⚛️ Frontend development with React.js.
 * 🗄️ Database work with MySQL, Spring Data JPA, and Hibernate.
 * 🏦 Built a full stack Banking Application with 25+ REST APIs.
+* 🏛️ Built the Child Support Enforcement Portal (CSES) frontend with React.js.
 * 🛒 Currently building an E-commerce Web Application.
 * 📚 Learning Data Structures & Algorithms, Docker, and Microservices basics.
 * 🎯 Looking for Java Developer, Backend Developer, Full Stack Developer, and Software Engineer roles.
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern
+
+**VCodez** | Chennai
+📅 February 2025 – May 2025
+
+* Worked mainly on frontend development tasks as part of a full stack team.
 
 ---
 
@@ -69,17 +81,17 @@
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,tailwind,mysql,maven,docker,git,github,postman" />
 </p>
 
 | Category    | Technologies                                                                 |
 | ----------- | ---------------------------------------------------------------------------- |
-| Languages   | Java, Python, SQL, JavaScript                                                |
+| Languages   | Java, SQL, JavaScript                                                        |
 | Backend     | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, JWT, REST APIs |
-| Frontend    | React.js, React Router, Axios, HTML5, CSS3, Tailwind CSS                     |
+| Frontend    | React.js, React Router, Hooks, Context API, Axios, HTML5, CSS3, Tailwind CSS |
 | Database    | MySQL                                                                        |
 | Tools & Testing | Git, GitHub, Maven, Postman, JUnit, Mockito, Docker (Basics)             |
-| Concepts    | DSA, OOP, Collections, DTO Pattern, Pagination, Microservices (Basics)       |
+| Concepts    | DSA, OOP, Collections, Java 8 Features, DTO Pattern, Pagination, Microservices (Basics) |
 
 ---
 
@@ -102,6 +114,22 @@ A full stack banking application built with Java, Spring Boot, Spring Security, 
 
 **Tech Stack:** Java, Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, MySQL, React.js, Axios
 
+### 🏛️ [Child Support Enforcement Portal (CSES)](https://github.com/Dinesh-now/cses_portal)
+
+A frontend case management portal built with React.js, with protected routes, Context API state management, and data that persists in the browser.
+
+**Key Features**
+
+* Admin login with form validation, demo authentication using sessionStorage, logout, and protected routes.
+* Dashboard with summary cards for cases, parents, children, and payments, plus quick links to every module.
+* Full CRUD for Cases, Parents, Children, Payments, and Court Orders.
+* Data integrity rules: parents with an associated child cannot be deleted, and children are linked to the correct parents.
+* Payment statistics that refresh automatically after any payment change.
+* Reports module summarizing case, parent, child, and payment data.
+* Data persists across browser refreshes using localStorage.
+
+**Tech Stack:** React.js, React Router DOM, Context API, Hooks (useState, useEffect), localStorage, sessionStorage, JavaScript, CSS
+
 ### 🛒 [E-commerce Web Application](https://github.com/Dinesh-now/E-CommereceApp) *(In Progress)*
 
 A full stack online shopping application built with Java, Spring Boot, React.js, and MySQL.
@@ -122,7 +150,11 @@ A full stack online shopping application built with Java, Spring Boot, React.js,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-now&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-now&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-now&layout=compact&langs_count=6&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <sub>The language card counts programming languages only. Spring Boot and Hibernate show up as Java, and React.js shows up as JavaScript.</sub>
 </p>
 
 ---
