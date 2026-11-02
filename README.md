@@ -149,16 +149,9 @@ A full stack online shopping application built with Java, Spring Boot, React.js,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Dinesh-now?style=for-the-badge&logo=github&color=24292e" />
-  <img src="https://img.shields.io/github/stars/Dinesh-now?style=for-the-badge&logo=github&color=24292e" />
-  <img src="https://img.shields.io/github/last-commit/Dinesh-now/Banking-Application-Full-Stack?style=for-the-badge&logo=git&color=24292e" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-now&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-now&layout=compact&langs_count=6&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-now&layout=compact&theme=tokyonight" height="165" />
 </p>
-
 
 ---
 
