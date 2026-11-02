@@ -149,8 +149,8 @@ A full stack online shopping application built with Java, Spring Boot, React.js,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-now&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-now&layout=compact&theme=tokyonight" height="165" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
 </p>
 
 ---
